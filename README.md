@@ -2,7 +2,7 @@
 
 Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 
-1. 
+1. Stéphanie LIBRE
 2. 
 3. 
 4. 
