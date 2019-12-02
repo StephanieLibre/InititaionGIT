@@ -4,7 +4,7 @@ Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 
 1. 
 2. 
-3. 
+3. Stephanie Libre
 4. 
 5. 
 6. 
